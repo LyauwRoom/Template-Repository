@@ -1,1 +1,1 @@
-# Template-Repoaitory
+# Template-Repository
